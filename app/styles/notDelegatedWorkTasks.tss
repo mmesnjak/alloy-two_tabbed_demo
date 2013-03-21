@@ -1,0 +1,7 @@
+"#ndwtWindow": {
+	backgroundColor: "white",
+	title: L('NotDelegatedWorkTasks')
+},
+"#ndwtTab": {
+	title: L('NotDelegatedWorkTasks')
+}

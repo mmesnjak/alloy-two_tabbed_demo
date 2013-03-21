@@ -1,0 +1,6 @@
+<Alloy>
+	<TabGroup id="tabGroup">
+		<Require src="delegatedWorkTasks" />
+		<Require src="notDelegatedWorkTasks" />
+	</TabGroup>		
+</Alloy>

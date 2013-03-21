@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<Menu platform="android" id="mainMenu">
+			<MenuItem title="login" />
+			<MenuItem title="nesto drugo" />
+		</Menu>
+	</Window>
+</Alloy>

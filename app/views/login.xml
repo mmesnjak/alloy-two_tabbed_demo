@@ -1,0 +1,9 @@
+<Alloy>
+	<Window id="loginWin" modal="true">
+		<View id="loginView">
+			<TextField id="user" />
+			<TextField id="pass" />
+			<Button id="loginBut" />
+		</View>
+	</Window>
+</Alloy>

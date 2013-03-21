@@ -1,0 +1,7 @@
+<Alloy>
+	<Tab id="ndwtTab">
+		<Window id="ndwtWindow">
+			<Label>I am Window 2</Label>
+		</Window>
+	</Tab>
+</Alloy>

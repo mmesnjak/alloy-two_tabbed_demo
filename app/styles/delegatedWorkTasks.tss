@@ -1,0 +1,6 @@
+"#dwtWindow": {
+	title: L('DelegatedWorkTasks')
+},
+"#dwtTab": {
+	title: L('DelegatedWorkTasks')
+}

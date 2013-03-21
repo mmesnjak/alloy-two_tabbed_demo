@@ -1,0 +1,50 @@
+"#loginWin": {
+	color: "#999",
+	title: L('login'),
+},
+"#loginView": {
+	width: 300,
+	height: 300,
+	layout: "vertical",
+	backgroundColor: "#000",
+	opacity: 0.8,
+	borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+	borderColor: "#999",
+	borderRadius: 8,
+	borderWidth: 3,
+	title: L('login'),
+},
+//".inputView": {
+//	layout: "horizontal",
+//},
+TextField: {
+	width: 150,
+	font: {
+		size: 15,
+	},
+	top: 20,
+},
+Label: {
+	top: 10,
+	color: "#FFF",
+	width: 150,
+},
+"#userLabel": {
+	top: 20,
+	text: L('username'),
+},
+"#passLabel": {
+	text: L('password'),
+},
+"#user": {
+    hintText: L('username'),        
+},
+"#pass": {
+	passwordMask: true,
+    hintText: L('password'),
+},
+"#loginBut": {
+	top: 30,
+	width: 100,
+	title: 'Login',
+}
